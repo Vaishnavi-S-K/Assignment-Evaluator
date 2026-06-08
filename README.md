@@ -576,13 +576,6 @@ This project combines:
 - **UI**: Streamlit + Plotly for interactive dashboard
 
 ---
-
-## License
-
-[Specify your license here, e.g., MIT, Apache 2.0, etc.]
-
----
-
 ## Contact & Support
 
 For issues, questions, or contributions:
